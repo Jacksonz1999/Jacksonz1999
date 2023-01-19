@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **project that I can learn**
 
-- 📫 How to reach me **jianchenfutbol@gmail.com**
+- 📫 How to reach me **jacksondev1999@gmail.com**
 
 - ⚡ Fun fact **Very passionate about videogames**
 
