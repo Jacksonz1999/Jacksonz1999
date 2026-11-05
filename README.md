@@ -17,10 +17,6 @@
 
 </div>
 
-<!-- ==================== 3D DIVIDER ==================== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="crystal" width="60" height="60"/>
-</div>
 
 <!-- ==================== 3D CODING SCENE ==================== -->
 <p align="center">
@@ -62,34 +58,6 @@
 
 </div>
 
-<!-- ==================== 3D STATS PANEL ==================== -->
-<div align="center">
-
-### 📊 NEON STATS
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonz1999&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff00ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonz1999&layout=treemap&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff&langs_count=10" alt="langs"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonz1999&theme=radical&hide_border=true&background=0d1117&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff&sideLabels=ffffff&dates=888888&stroke=000000" alt="streak"/>
-
-<br/>
-
-<!-- 3D activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksonz1999&theme=react-dark&hide_border=true&area=true&color=00f0ff&line=ff00ff&point=ffffff&bg_color=0d1117" alt="activity" width="90%"/>
-
-</div>
-
-<!-- ==================== TROPHY CABINET ==================== -->
-<div align="center">
-
-### 🏆 TROPHY ROOM
-
-<img src="https://github-profile-trophy.vercel.app/?username=jacksonz1999&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" width="95%"/>
-
-</div>
 
 <!-- ==================== 3D FOOTER ==================== -->
 <div align="center">
